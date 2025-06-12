@@ -168,7 +168,7 @@ const styles: Record<string, React.CSSProperties> = {
   },
   textoDeclaracao: {
     fontSize: 18,
-    color: "#f0f0f0",
+    color: "#000",
     padding: "0 20px",
   },
   heartsContainer: {
