@@ -32,7 +32,7 @@ function ContadorTempoJuntos() {
   return (
     <div style={{ textAlign: 'center', marginTop: '2rem' }}>
       <h1>{timeTogether}</h1>
-      <h2>Bem-vindoa ao nosso cantinho do amor 💕</h2>
+      <h2>Bem-vinda ao nosso cantinho do amor 💕</h2>
     </div>
   )
 }
